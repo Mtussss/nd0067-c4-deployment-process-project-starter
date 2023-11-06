@@ -5,8 +5,11 @@
 #### Hosted DB on RDS host: database-1.cvgdct6qidh7.us-east-1.rds.amazonaws.com
 
 ## Infratructure
+- Infrastructure configuration can found here [Infrastructure] (https://github.com/Mtussss/nd0067-c4-deployment-process-project-starter/tree/main/documents/infratructure)
 ## Pipeline
+- Pipeline workflow capture can found here [Infrastructure] (https://github.com/Mtussss/nd0067-c4-deployment-process-project-starter/tree/main/documents/pipeline)
 ## Application
+- Web app capture can found here [Application] (https://github.com/Mtussss/nd0067-c4-deployment-process-project-starter/tree/main/documents/application)
 ---
 
 In this project you will learn how to take a newly developed Full-Stack application built for a retailer and deploy it to a cloud service provider so that it is available to customers. You will use the aws console to start and configure the services the application needs such as a database to store product information and a web server allowing the site to be discovered by potential customers. You will modify your package.json scripts and replace hard coded secrets with environment variables in your code.
