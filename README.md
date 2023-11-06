@@ -4,8 +4,9 @@
 #### Hosted backend on EB link: http://udagram-api-dev.eba-vzaavb6j.us-east-1.elasticbeanstalk.com
 #### Hosted DB on RDS host: database-1.cvgdct6qidh7.us-east-1.rds.amazonaws.com
 
-### **You can use you own project completed in previous courses or use the provided Udagram app for completing this final project.
-
+## Infratructure
+## Pipeline
+## Application
 ---
 
 In this project you will learn how to take a newly developed Full-Stack application built for a retailer and deploy it to a cloud service provider so that it is available to customers. You will use the aws console to start and configure the services the application needs such as a database to store product information and a web server allowing the site to be discovered by potential customers. You will modify your package.json scripts and replace hard coded secrets with environment variables in your code.
